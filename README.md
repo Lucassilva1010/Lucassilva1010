@@ -1,3 +1,4 @@
+### Quem Sou?
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é:+Lucas+Augusto+Da+Silva;Sou+Professor+e+Estudante+de+Técnologia;Desenvolvedor+Junior;Docente+Assistente+No+SENAI;Instrutor+de+Web+Designer+No+SENAC;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -24,7 +25,7 @@
   
   ##
   
-  ### Ferramentas:
+  ### Ferramentas
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
@@ -33,13 +34,19 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
   
   
-  ### Sistemas: 
+  ### Sistemas 
   
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
   ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)&nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp; 
   
   
+  ### Contribuições
+  
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=Lucassilva1010&theme=gotham&hide_border=true&area=true)
+  
+  
+  ### Minhas Visualizações
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
